@@ -1,0 +1,22 @@
+{
+  "modo": "lista_blanca",
+  "permitidos": [
+    "bitly.com",
+    "noteforms.com",
+    "bbvanetcash.pe",
+    "azurewebsites.net",
+    "sunat.gob.pe",
+    "notion.site",
+    "eldni.com",
+    "wins.pe",
+    "moixx.com.pe",
+    "panel.izipay.pe",
+    "izipanel.pe",
+    "outlook.com",
+    "live.com",
+    "office.net",
+    "office.com",
+    "whatsapp.com",
+    "now.com.pe"
+  ]
+}
