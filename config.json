@@ -21,6 +21,8 @@
     "now.com.pe",
     "speedtest.net",
     "ookla.com",
-    "forms.cloud.microsoft"
+    "forms.cloud.microsoft",
+    "www.google.com/recaptcha/*",
+    "www.gstatic.com/recaptcha/*"
   ]
 }
