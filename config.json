@@ -22,8 +22,9 @@
     "speedtest.net",
     "ookla.com",
     "forms.cloud.microsoft",
-    "recaptcha.net",
-    "gstatic.com",
+    "www.google.com/recaptcha/*",
+    "www.google.com/recaptcha/enterprise/*",
+    "www.gstatic.com/recaptcha/*",
     "api-pw.izipay.pe",
     "checkout.izipay.pe"
   ]
