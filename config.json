@@ -13,8 +13,6 @@
     "moixxlife.com",
     "panel.izipay.pe",
     "izipanel.pe",
-    "panel.izipay.pe/*",
-    "izipanel.pe/*",
     "outlook.com",
     "live.com",
     "office.net",
@@ -24,8 +22,7 @@
     "speedtest.net",
     "ookla.com",
     "forms.cloud.microsoft",
-    "www.google.com/recaptcha/*",
-    "www.google.com/recaptcha/enterprise/*",
-    "www.gstatic.com/recaptcha/*"
+    "recaptcha.net",
+    "gstatic.com"
   ]
 }
