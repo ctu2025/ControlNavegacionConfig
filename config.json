@@ -23,6 +23,7 @@
     "ookla.com",
     "forms.cloud.microsoft",
     "www.google.com/recaptcha/*",
+    "www.google.com/recaptcha/enterprise/*",
     "www.gstatic.com/recaptcha/*"
   ]
 }
