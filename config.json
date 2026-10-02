@@ -13,6 +13,8 @@
     "moixxlife.com",
     "panel.izipay.pe",
     "izipanel.pe",
+    "panel.izipay.pe/*",
+    "izipanel.pe/*",
     "outlook.com",
     "live.com",
     "office.net",
