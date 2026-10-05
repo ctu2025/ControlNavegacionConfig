@@ -22,10 +22,11 @@
     "speedtest.net",
     "ookla.com",
     "forms.cloud.microsoft",
-    "www.google.com/recaptcha/*",
-    "www.google.com/recaptcha/enterprise/*",
-    "www.gstatic.com/recaptcha/*",
     "api-pw.izipay.pe",
-    "checkout.izipay.pe"
+    "checkout.izipay.pe",
+    "recaptcha.net",
+    "www.recaptcha.net",
+    "gstatic.com",
+    "://gstatic.com"
   ]
 }
