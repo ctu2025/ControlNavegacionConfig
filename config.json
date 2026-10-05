@@ -24,9 +24,11 @@
     "forms.cloud.microsoft",
     "recaptcha.net",
     "www.recaptcha.net",
-    "gstatic.com",
-    "www.gstatic.com",
-    "api-pw.izipay.pe",
-    "checkout.izipay.pe",
+   "gstatic.com",
+   "www.gstatic.com",
+   "https://www.google.com/recaptcha/*",
+   "https://www.google.com/recaptcha/enterprise/*",
+   "api-pw.izipay.pe",
+   "checkout.izipay.pe"
   ]
 }
